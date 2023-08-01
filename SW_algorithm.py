@@ -1,8 +1,6 @@
 
 import argparse as ap
-
 import numpy as np
-
 
 class SmithWaterman():
     # initializer method
